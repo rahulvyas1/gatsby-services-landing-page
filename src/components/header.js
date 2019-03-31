@@ -37,10 +37,10 @@ const Header = ({ siteTitle }) => (
         padding: `1.45rem`,
       }}>
         <a style={{
-        padding: `0 1.45rem 0 0`,
+        padding: `0 3rem 0 0`,
       }}><div>About Us</div></a>
         <a style={{
-        padding: `0 1.45rem 0 0`,
+        padding: `0 3rem 0 0`,
       }}><div>About Us</div></a>
         <a><div style={{
         backgroundColor: `rgba(255,255,255,0.5)`,

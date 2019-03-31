@@ -532,9 +532,10 @@ pre tt:after {
 }
 
 .GetStartedBtn{
-  -moz-box-shadow:    3px 3px 5px 6px #ccc;
-  -webkit-box-shadow: 3px 3px 5px 6px #ccc;
+  -moz-box-shadow:    0px 10px 30px 0px rgba(64, 21,89, 20%);
+  -webkit-box-shadow: 0px 10px 30px 0px rgba(64, 21,89, 20%);
   box-shadow:         0px 10px 30px 0px rgba(64, 21,89, 20%);
+ 
 }
 
 .btn:hover {
@@ -554,6 +555,7 @@ pre tt:after {
     border: 0;
     font-weight: 500;
     font-family: helvetica;
+    
 }
 
 .socialSet{
